@@ -7,7 +7,7 @@ import org.openqa.selenium.support.How;
 
 public class CreateAnAccountPage extends BasePage {
 
-	WebDriver driver;
+	WebDriver driver
 	
 	public CreateAnAccountPage(WebDriver driver) {
 		this.driver = driver;
